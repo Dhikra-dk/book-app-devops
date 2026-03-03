@@ -7,7 +7,7 @@ docker build -t express-docker-app .
 ```ns
 kk
 2. **Run the Docker container**
-```bash
+```bashkkzk
 docker run -p 3000:3000 express-docker-apprkrk
 ```hh
 cc^^fkkfk
